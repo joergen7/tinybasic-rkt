@@ -4,3 +4,4 @@
 (define deps '("base" "parser-tools-lib" "readline-lib"))
 (define racket-launcher-names '("tinybasic"))
 (define racket-launcher-libraries '("main.rkt"))
+(define license 'MIT)
